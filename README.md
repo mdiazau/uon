@@ -16,4 +16,6 @@ Environmental Economics & Management, 5, 81‐102.
 Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: 
 University of California, School of Information and Computer Science.
 
+Moosavi, S. (2021). US Accidents (2016-2021) [Data Set] https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
 NSW Ministry of Health (2022). NSW COVID-19 cases by location [Data NSW Open Data Portal data set]. https://data.nsw.gov.au/search/dataset/ds-nsw-ckan-aefcde60-3b0c-4bc0-9af1-6fe652944ec2/details?q=
