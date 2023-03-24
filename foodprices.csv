@@ -1,0 +1,61 @@
+Country,Continent,Income_level,Satisfaction,Life_expect,Unafford_diet,School_life_expect
+Albania,Europe,Upper Middle Income,4.995,78.573,42.00774,15.52495
+Argentina,South America,Upper Middle Income,6.086,76.667,8.5967,17.28682
+Belgium,Europe,High Income,6.772,81.628,0.292606,19.98438
+Benin,Africa,Low Income,4.976,61.771,89.63388,12.13588
+Botswana,Africa,Upper Middle Income,3.471,69.592,60.1921,12.01332
+Cameroon,Africa,Lower-Middle Income,4.937,59.292,66.43285,12.18882
+China,Asia,Upper Middle Income,5.144,76.912,17.94347,14.00805
+Colombia,South America,Upper Middle Income,6.35,77.287,22.39919,14.41909
+Comoros,Africa,Low Income,4.609,64.321,60.2145,11.08755
+Congo,Africa,Lower-Middle Income,5.213,64.57,90.04419,11.14742
+Costa Rica,North America,Upper Middle Income,6.998,80.279,10.59034,15.21879
+Croatia,Europe,Upper Middle Income,5.626,78.488,5.311003,15.13883
+Cyprus,Europe,High Income,6.137,80.982,0.051302,14.57015
+Dominican Republic,North America,Upper Middle Income,6.004,74.081,18.58065,13.75483
+El Salvador,North America,Lower-Middle Income,6.455,73.317,41.0972,12.88925
+Estonia,Europe,High Income,6.035,78.745,0.783341,16.35181
+Eswatini,Africa,Lower-Middle Income,4.396,60.194,66.43794,11.41375
+Ethiopia,Africa,Low Income,4.1,66.597,87.36121,8.43985
+Finland,Europe,High Income,7.78,81.908,0.098728,19.341
+Gabon,Africa,Upper Middle Income,4.914,66.467,32.0472,12.28689
+Ghana,Africa,Lower-Middle Income,4.967,64.074,60.90227,11.92033
+Greece,Europe,High Income,5.952,82.239,2.895735,17.77999
+Guinea,Africa,Low Income,4.768,61.602,90.28445,8.81527
+Honduras,North America,Lower-Middle Income,5.93,75.27,48.85315,11.52169
+Hungary,Europe,High Income,6,76.875,3.021302,15.36979
+Israel,Asia,High Income,7.332,82.972,0.997768,16.00885
+Jordan,Asia,Lower-Middle Income,4.453,74.526,19.90089,12.76321
+Laos,Asia,Lower-Middle Income,5.197,67.923,83.7078,10.9074
+Latvia,Europe,High Income,5.97,75.292,2.62944,13.35935
+Luxembourg,Europe,High Income,7.404,82.25,0.412604,13.86373
+Madagascar,Africa,Low Income,4.339,67.041,96.73974,10.50338
+Malawi,Africa,Low Income,3.869,64.263,92.84431,10.72257
+Malaysia,Asia,Upper Middle Income,5.428,76.156,2.754231,12.93025
+Mongolia,Asia,Lower-Middle Income,5.563,69.87,43.16624,15.01115
+Montenegro,Europe,Upper Middle Income,5.386,76.884,14.87213,15.13368
+Myanmar,Asia,Lower-Middle Income,4.434,67.134,51.92937,8.20037
+Namibia,Africa,Upper Middle Income,4.436,63.708,45.98487,11.25631
+Nepal,Asia,Low Income,5.449,70.778,72.0897,12.19009
+Netherlands,Europe,High Income,7.425,82.283,0.312813,18.11654
+Nicaragua,North America,Lower-Middle Income,6.113,74.485,27.84136,11.00793
+Niger,Africa,Low Income,5.004,62.42,91.94135,5.31581
+North Macedonia,Europe,Upper Middle Income,5.015,75.797,18.23828,13.12446
+Palestine,Asia,Lower-Middle Income,4.483,74.053,23.77703,12.79819
+Panama,North America,Upper Middle Income,6.086,78.506,19.78807,12.79825
+Paraguay,South America,Upper Middle Income,5.653,74.254,15.44793,12.31843
+Russia,Europe,Upper Middle Income,5.441,72.584,2.541048,15.38367
+Rwanda,Africa,Low Income,3.268,69.024,91.14971,10.55147
+Senegal,Africa,Low Income,5.489,67.941,77.24802,8.98401
+Serbia,Europe,Upper Middle Income,6.241,76.001,23.87022,14.55158
+Sierra Leone,Africa,Low Income,3.447,54.696,85.57656,7.2094
+Slovenia,Europe,High Income,6.665,81.324,0.019204,17.3483
+South Africa,Africa,Upper Middle Income,5.035,64.131,61.10259,13.33729
+Spain,Europe,High Income,6.457,83.565,1.480493,17.88458
+Tajikistan,Asia,Lower-Middle Income,5.464,71.097,34.01277,11.26186
+Tanzania,Africa,Low Income,3.64,65.456,84.53875,8.35637
+Togo,Africa,Low Income,4.179,61.042,97.28955,11.96578
+Turkey,Asia,Upper Middle Income,4.872,77.691,6.668437,17.22004
+United Kingdom,Europe,High Income,7.157,81.321,0.4246,17.93685
+United States,North America,High Income,6.944,78.862,1.499683,16.53815
+Uruguay,South America,High Income,6.6,77.911,1.307074,15.00132
